@@ -1,0 +1,26 @@
+{
+  "title": "Colorado Flood Organizations",
+  "description": "Colorado Flood Organizations.",
+  "identifier": "owf-data-co-flood-orgs",
+  "landingPage": "https://data.openwaterfoundation.org/state/co/owf/flood-orgs/",
+  "issued": "2022-07-26",
+  "keyword": [
+    "point",
+    "control",
+    "regulation",
+    "flood"
+  ],
+  "publisher": {
+    "name": "Open Water Foundation",
+    "mbox": "info@openwaterfoundation.org"
+  },
+  "distribution": [
+    {
+      "accessURL": "",
+      "byteSize": null,
+      "description": "Resource locator",
+      "format": "application/geo+json",
+      "title": "Colorado Flood Organizations"
+    }
+  ]
+}

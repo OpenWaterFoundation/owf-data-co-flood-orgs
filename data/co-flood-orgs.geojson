@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "bbox": [-105.11455, 40.39577, -104.69286, 40.5897],
+  "features": [
+      {
+      "type": "Feature",
+      "bbox": [-104.69286, 40.42249, -104.69286, 40.42249],
+      "properties": {
+        "Organization": "City of Greeley",
+        "OrganizationType": "Municipal Utility",
+        "Description": "Stormwater - Floodplain Information",
+        "FloodWarningWebpage": "https://larimerco-ns5.trilynx-novastar.systems/novastar/operator",
+        "FloodplainRegWebpage": "https://greeleygov.com/services/pw/stormwater/floodplain-information",
+        "InBasin": "Yes",
+        "Longitude": -104.69286,
+        "Latitude": 40.42249,
+        "LongitudeMain": "",
+        "LatitudeMain": "",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.69286, 40.42249]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.08012, 40.5897, -105.08012, 40.5897],
+      "properties": {
+        "Organization": "City of Fort Collins",
+        "OrganizationType": "Municipal Utility",
+        "Description": "Utilities - Flooding",
+        "FloodWarningWebpage": "https://www.fcgov.com/utilities/what-we-do/stormwater/flooding/warning-system",
+        "FloodplainRegWebpage": "https://www.fcgov.com/utilities/what-we-do/stormwater/flooding/",
+        "InBasin": "Yes",
+        "Longitude": -105.08012,
+        "Latitude": 40.5897,
+        "LongitudeMain": "",
+        "LatitudeMain": "",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.08012, 40.5897]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.11455, 40.39577, -105.11455, 40.39577],
+      "properties": {
+        "Organization": "City of Loveland",
+        "OrganizationType": "Municipal Utility",
+        "Description": "Stormwater - Flood Management",
+        "FloodWarningWebpage": "https://larimerco-ns5.trilynx-novastar.systems/novastar/operator",
+        "FloodplainRegWebpage": "https://www.lovgov.org/services/public-works/stormwater/flood-management",
+        "InBasin": "Yes",
+        "Longitude": -105.11455,
+        "Latitude": 40.39577,
+        "LongitudeMain": "",
+        "LatitudeMain": "",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.11455, 40.39577]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.0798, 40.58624, -105.0798, 40.58624],
+      "properties": {
+        "Organization": "Larimer County",
+        "OrganizationType": "County Government",
+        "Description": "Floodplains",
+        "FloodWarningWebpage": "https://larimerco-ns5.trilynx-novastar.systems/novastar/operator",
+        "FloodplainRegWebpage": "https://www.larimer.org/engineering/floodplains",
+        "InBasin": "Yes",
+        "Longitude": -105.0798,
+        "Latitude": 40.58624,
+        "LongitudeMain": "",
+        "LatitudeMain": "",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.0798, 40.58624]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.08399, 40.40446, -105.08399, 40.40446],
+      "properties": {
+        "Organization": "Boxelder Regional Stormwater Authority",
+        "OrganizationType": "IGA",
+        "Description": "Stormwater - Authority",
+        "FloodWarningWebpage": "https://larimerco-ns5.trilynx-novastar.systems/novastar/operator",
+        "FloodplainRegWebpage": "https://www.boxelderauthority.org/",
+        "InBasin": "Yes",
+        "Longitude": -105.08399,
+        "Latitude": 40.40446,
+        "LongitudeMain": "",
+        "LatitudeMain": "",
+        "Note": "Coordinates are for consulting company."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.08399, 40.40446]
+      }
+    }
+  ]
+}
