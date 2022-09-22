@@ -8,9 +8,9 @@ The initial focus is the Poudre Basin and organizations for other areas will be 
 
 The following files can be downloaded or used directly.
 
-| **Layer File** | **Description** |
-| -- | -- |
-| [`co-flood-orgs.geojson`](co-flood-orgs.geojson) | Colorado flood organizations. |
+| **Layer File** | **Description** | **View** |
+| -- | -- | -- |
+| [`co-flood-orgs.geojson`](co-flood-orgs.geojson) | Colorado flood organizations. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/state/co/owf/flood-orgs/co-flood-orgs.geojson) |
 
 ## Workflow ##
 
